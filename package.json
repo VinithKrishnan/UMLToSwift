@@ -1,0 +1,16 @@
+{
+    "name": "Vinith.helloworld",
+    "title": "HelloWorld",
+    "description": "HelloWorld extension",
+    "homepage": "https://github.com/VinithKrishnan/UMLtoSwift",
+    "version": "0.1.0",
+    "keywords": ["example", "helloworld"],
+    "author": {
+        "name": "Vinith",
+        "email": "vinithk@gmail.com",
+        "url": "https://github.com/VinithKrishnan"
+    },
+    "engines": {
+        "staruml": ">=2.0.0"
+    }
+}
