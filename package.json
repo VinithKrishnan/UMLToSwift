@@ -1,10 +1,10 @@
 {
-    "name": "Vinith.helloworld",
-    "title": "HelloWorld",
-    "description": "HelloWorld extension",
+    "name": "Swift.descriptor",
+    "title": "Descriptor",
+    "description": "Descriptor Extension",
     "homepage": "https://github.com/VinithKrishnan/UMLtoSwift",
     "version": "0.1.0",
-    "keywords": ["example", "helloworld"],
+    "keywords": ["example", "descriptor"],
     "author": {
         "name": "Vinith",
         "email": "vinithk@gmail.com",
@@ -14,3 +14,4 @@
         "staruml": ">=2.0.0"
     }
 }
+
